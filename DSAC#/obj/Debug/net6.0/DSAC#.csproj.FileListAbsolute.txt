@@ -1,0 +1,15 @@
+D:\DSAwithCSharp\DSAC#\bin\Debug\net6.0\DSAC#.exe
+D:\DSAwithCSharp\DSAC#\bin\Debug\net6.0\DSAC#.deps.json
+D:\DSAwithCSharp\DSAC#\bin\Debug\net6.0\DSAC#.runtimeconfig.json
+D:\DSAwithCSharp\DSAC#\bin\Debug\net6.0\DSAC#.dll
+D:\DSAwithCSharp\DSAC#\bin\Debug\net6.0\DSAC#.pdb
+D:\DSAwithCSharp\DSAC#\obj\Debug\net6.0\DSAC#.csproj.AssemblyReference.cache
+D:\DSAwithCSharp\DSAC#\obj\Debug\net6.0\DSAC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSAwithCSharp\DSAC#\obj\Debug\net6.0\DSAC#.AssemblyInfoInputs.cache
+D:\DSAwithCSharp\DSAC#\obj\Debug\net6.0\DSAC#.AssemblyInfo.cs
+D:\DSAwithCSharp\DSAC#\obj\Debug\net6.0\DSAC#.csproj.CoreCompileInputs.cache
+D:\DSAwithCSharp\DSAC#\obj\Debug\net6.0\DSAC#.dll
+D:\DSAwithCSharp\DSAC#\obj\Debug\net6.0\refint\DSAC#.dll
+D:\DSAwithCSharp\DSAC#\obj\Debug\net6.0\DSAC#.pdb
+D:\DSAwithCSharp\DSAC#\obj\Debug\net6.0\DSAC#.genruntimeconfig.cache
+D:\DSAwithCSharp\DSAC#\obj\Debug\net6.0\ref\DSAC#.dll
